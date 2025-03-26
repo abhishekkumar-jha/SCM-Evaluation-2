@@ -1,0 +1,6 @@
+- Complete the project documentation
+- Review the pull requests
+- Update the project dependencies
+- Write unit tests for new features
+- Fix the reported bugs
+- Plan the next sprint tasks
